@@ -1,5 +1,5 @@
 # scheduling_algorithm
-
+//
 This project is done in Operating System class. This program is implementing three different kind of scheduling algorithm: 1. first come first serve
                                                                                                                            2. shortest job first
                                                                                                                            3. round robin
